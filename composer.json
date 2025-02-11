@@ -1,0 +1,21 @@
+{
+    "name": "ajoxi/voip-wholesale",
+    "description": "Ajoxi VOIP wholesale provider package for international calling",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "AjoxiVoip\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your-email@example.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
